@@ -1,0 +1,8 @@
+A B 1
+B P 1
+O T 1
+O P 2.5
+P R 2
+Q R 4
+Q T 2
+R T 3
