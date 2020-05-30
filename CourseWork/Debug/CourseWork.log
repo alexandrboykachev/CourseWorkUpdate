@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\asus\source\repos\coursework\coursework\list.h(92): warning C4018: <=: несоответствие типов со знаком и без знака
+  c:\users\asus\source\repos\coursework\coursework\list.h(91): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\asus\source\repos\coursework\coursework\flow.h(121): note: выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::at(size_t)"
+          with
+          [
+              T=int
+          ]
+  c:\users\asus\source\repos\coursework\coursework\flow.h(114): note: выполняется компиляция ссылки на экземпляр шаблон класс "List<T1>"
+          with
+          [
+              T1=int
+          ]
+  CourseWork.vcxproj -> C:\Users\Asus\source\repos\CourseWork\Debug\CourseWork.exe
